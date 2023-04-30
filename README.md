@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project contains two versions of the fake news classification model:
+This project contains three versions of the fake news classification model:
 
 
 - Version 1: Uses MultinomialNB model with bag of words, achieving 90% accuracy.
