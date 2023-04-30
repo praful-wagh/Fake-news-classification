@@ -8,7 +8,6 @@ This project contains two versions of the fake news classification model:
 - Version 3: Uses LGBMClassifier model with TfidfVectorizer module, achieving 98% accuracy.
 
 
-
 ### version 1
 
 # Fake News Classification
