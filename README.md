@@ -5,7 +5,7 @@ This project contains two versions of the fake news classification model:
 
 - Version 1: Uses MultinomialNB model with bag of words, achieving 90% accuracy.
 - Version 2: Uses deep learning techniques with tensorflow, keras, nltk libraries, and Sequential neural network and LSTM, achieving 92% accuracy.
-- Version 3: Uses LGBMClassifier model with TfidfVectorizer module, achieving 9% accuracy.
+- Version 3: Uses LGBMClassifier model with TfidfVectorizer module, achieving 98% accuracy.
 
 
 
